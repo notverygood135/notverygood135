@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me:
 I'm an aspiring frontend web developer (and a fullstack developer one day) who's not really good at designing UIs ;w; <br />
-Technologies I'm currently using: ReactJS <br />
+Technologies I'm currently using: ReactJS, NodeJS, PostgreSQL, Ruby on Rails <br />
 Technologies I want to learn: Svelte, OpenCV, Pytorch
 
 ---
